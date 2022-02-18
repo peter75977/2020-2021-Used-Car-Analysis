@@ -13,7 +13,7 @@
  
  <br />
  <br />
-
+------------------
  
  
  2021 Ranking of Manufacturers
@@ -23,7 +23,7 @@
  
   ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/2.1%20EDA_Cars%20Price%20of%20Top%2010%20Manufacturers.png)
  
- 
+ ------------------
  
  <br /><br />
  
@@ -36,7 +36,7 @@
  
  
  <br /><br />
-
+------------------
 ### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.pdf)
 
 

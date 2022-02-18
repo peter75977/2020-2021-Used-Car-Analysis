@@ -1,20 +1,31 @@
 # 2020/2021 Used Car Analysis
- A project aims to explore the used car data and predict the price
+
+ A project aims to explore the used car data, compare data of 2020 & 2021 and predict the future price
+
  
- Brief Conclusions: 
+## Brief Figures & Conclusions
  
- USDx is the **only** index with positive return among the chosen index
- ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_img.png)
+ Image shows the used car price of 2021 in each state. The deeper color area indicates a higher mediam price
+ ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/5.1.%20EDA_Map_Median%20Price.png)
  
- USDx has negatively correlation with ETFs: QQQ, XLE, XLV
- QQQ, XLE, XLV are highly correlated, which means that portfolio should avoid keeping more than one of these three ETFs
-  ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_Corr_img.png)
-  
-  USDx has the lowest risk and moderate expected ruturn
-  QQQ has the highest risk and highest expected ruturn
-  ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_Corr_img.png)
  
- -
- For more information, Please click 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.docx)
- -
+ 
+ 2021 Ranking of Manufacturers
+ 
+ 
+  ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/2.1%20EDA_Cars%20Price%20of%20Top%2010%20Manufacturers.png)
+ 
+ 
+ 
+ Comparing price of 2020 to 2021, we can see both mean price and median price increase <br />
+ 
+ 
+  ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2020%20Vs.%202021/3.%20Mean%20and%20Median%20Price%20Comparison.png)
+ 
+ 
+ 
+
+### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.docx)
+
+
  Data is from https://www.kaggle.com/austinreese/craigslist-carstrucks-data

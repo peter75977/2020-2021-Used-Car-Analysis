@@ -7,8 +7,7 @@
  
  Image shows the used car price of 2021 in each state. The deeper color area indicates a higher mediam price
  <br />
- <br />
- <br />
+
  ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/5.1.%20EDA_Map_Median%20Price.png)
  
  <br />

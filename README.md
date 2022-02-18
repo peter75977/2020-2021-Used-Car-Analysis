@@ -25,7 +25,7 @@
  
  
 
-### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.docx)
+### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.pdf)
 
 
  Data is from https://www.kaggle.com/austinreese/craigslist-carstrucks-data

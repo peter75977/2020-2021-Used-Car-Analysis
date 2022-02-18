@@ -12,7 +12,7 @@
  ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/5.1.%20EDA_Map_Median%20Price.png)
  
  <br />
- <br />
+
 ------------------
  
  
@@ -34,8 +34,7 @@
  
   ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2020%20Vs.%202021/3.%20Mean%20and%20Median%20Price%20Comparison.png)
  
- 
- <br /><br />
+
 ------------------
 ### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.pdf)
 

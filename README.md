@@ -6,20 +6,19 @@
 ## Brief Figures & Conclusions
  
  Image shows the used car price of 2021 in each state. The deeper color area indicates a higher mediam price
- 
- 
- 
+ <br />
+ <br />
+ <br />
  ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2021/5.1.%20EDA_Map_Median%20Price.png)
  
  <br />
  <br />
- <br />
- 
+
  
  
  2021 Ranking of Manufacturers
  
- 
+ <br /><br />
  
  
  
@@ -27,17 +26,17 @@
  
  
  
- 
+ <br /><br />
  
  Comparing price of 2020 to 2021, we can see both mean price and median price increase <br />
  
  
- 
+ <br /><br />
  
   ![alt text](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Used%20Car%20Code%20Collection/Image/EDA_2020%20Vs.%202021/3.%20Mean%20and%20Median%20Price%20Comparison.png)
  
  
- 
+ <br /><br />
 
 ### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/2020-2021-Used-Car-Analysis/blob/main/Final%20Paper.pdf)
 
